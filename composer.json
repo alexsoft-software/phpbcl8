@@ -1,8 +1,7 @@
 {
     "name": "alexsoft-software/phpbcl8",
     "description": "PHP 8 Backwards Compatibility Library (phpbcl8).",
-    "version": "2.0.4",
-    "license":"AGL-F (Ascoos General License - Free)",
+    "license":"proprietary",
     "homepage": "https://apps.ascoos.com/phpbcl8",
     "authors": [
         {
@@ -20,7 +19,7 @@
             "type": "package",
             "package": {
                 "name": "alexsoft-software/phpbcl8",
-                "version": "2.0.2",
+                "version": "2.0.4",
                 "type": "library",
                 "distributors": [
                     {
@@ -37,14 +36,9 @@
                     }                    
                 ]
             }
-        },
-        {
-            "type": "composer",
-            "url": "https://www.phpclasses.org/"
-        }          
+        }         
     ],
     "require": {
-        "php": ">=5.6",
-        "phpclasses/phpbcl8": ">=2.0.4"
+        "php": ">=5.6"
     }    
 }
