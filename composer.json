@@ -1,6 +1,7 @@
 {
     "name": "alexsoft-software/phpbcl8",
     "description": "PHP 8 Backwards Compatibility Library (phpbcl8).",
+    "keywords": ["ascoos", "ascoos-framework", "libraries", "php-library", "backward", "compatibility", "polyfills", "poylfill", "compat", "backward-compatibility", "php-polyfill", "php8", "php-polyfills"],
     "license":"proprietary",
     "homepage": "https://apps.ascoos.com/phpbcl8",
     "authors": [
