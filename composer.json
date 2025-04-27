@@ -19,7 +19,7 @@
             "type": "package",
             "package": {
                 "name": "alexsoft-software/phpbcl8",
-                "version": "2.0.4",
+                "version": "2.0.5",
                 "type": "library",
                 "distributors": [
                     {
@@ -27,7 +27,7 @@
                         "type": "zip"
                     },
                     {
-                        "url": "https://github.com/alexsoft-software/phpbcl8/releases/download/2.0.4/phpbcl8-2.0.4.zip",
+                        "url": "https://github.com/alexsoft-software/phpbcl8/releases/download/2.0.5/phpbcl8-2.0.5.zip",
                         "type": "zip"
                     },
                     {
@@ -39,6 +39,6 @@
         }         
     ],
     "require": {
-        "php": ">=5.6"
+        "php": ">=8.0"
     }    
 }
